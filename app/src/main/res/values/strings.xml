@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CarApp</string>
+    <string name="anaSayfa">CarApp</string>
+
+    <color name="Text">#FAB324</color>
+    <color name="button">#5E6469</color>
+    <string name="title_activity_hakkimizda">HakkimizdaActivity</string>
+    <string name="title_activity_iletisim">IletisimActivity</string>
+</resources>
